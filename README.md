@@ -2,7 +2,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
+<table>
+  <tr>
+    <td width="220" align="center">
+      <img 
+        src="./assets/raify-profile.png" 
+        width="180" 
+        alt="Raify D' Leon"
+      />
+    </td>
+    <td>
 
 # Aprendizaje Backend Python 🐍
 
@@ -16,7 +25,9 @@ Repositorio de aprendizaje y práctica enfocado en el desarrollo backend con Pyt
 
 Este repositorio reúne diferentes ejercicios, tareas, notebooks y prácticas realizadas durante mi proceso de formación en programación backend, APIs REST, modelos, vistas, autenticación, templates y análisis básico de datos.
 
-</div>
+   </td>
+  </tr>
+</table>
 
 ---
 
