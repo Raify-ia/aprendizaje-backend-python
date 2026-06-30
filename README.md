@@ -1,31 +1,23 @@
 <!-- horizontal divider -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 style="display: inline-block">Aprendizaje Backend Python 🐍</h1>
-    </summary>
-  </ul>
+<div align="center">
+
+# Aprendizaje Backend Python 🐍
+
+Repositorio de aprendizaje y práctica enfocado en el desarrollo backend con Python, Django, Django REST Framework y fundamentos relacionados con el desarrollo web full stack.
+
+Este repositorio reúne diferentes ejercicios, tareas, notebooks y prácticas realizadas durante mi proceso de formación en programación backend, APIs REST, modelos, vistas, autenticación, templates y análisis básico de datos.
+
 </div>
-
-<p align="center">
-  Repositorio de aprendizaje y práctica enfocado en el desarrollo backend con Python, Django, Django REST Framework y fundamentos relacionados con el desarrollo web full stack.
-</p>
-
-<p align="center">
-  Este repositorio reúne diferentes ejercicios, tareas, notebooks y prácticas realizadas durante mi proceso de formación en programación backend, APIs REST, modelos, vistas, autenticación, templates y análisis básico de datos.
-</p>
 
 ---
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Descripción 📌</h2>
-    </summary>
-  </ul>
+<div align="center">
+
+## Descripción 📌
+
 </div>
 
 <p>
@@ -49,28 +41,48 @@ Aquí se encuentran prácticas sobre:
 
 ---
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Tecnologías utilizadas 👨‍💻</h2>
-    </summary>
-  </ul>
+<div align="center">
+
+## Tecnologías utilizadas 👨‍💻
+
 </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,react,docker,linux,vscode,postman&perline=7" />
+    <img 
+      src="https://skillicons.dev/icons?i=py,django,react,docker,linux,vscode,postman&perline=7" 
+      alt="Tecnologías utilizadas"
+    />
   </a>
 </p>
 
 ---
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Contenido del repositorio 📂</h2>
-    </summary>
-  </ul>
+<div align="center">
+
+## Actividad y lenguajes 📈
+
+</div>
+
+<p align="center">
+  <img 
+    width="48%" 
+    src="https://streak-stats.demolab.com?user=Raify-ia&theme=dark&hide_border=false&background=0D1117&border=FFFFFF&stroke=FFFFFF&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&dates=CCCCCC" 
+    alt="GitHub Streak"
+  />
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raify-ia&layout=compact&theme=dark&hide_border=false&bg_color=0D1117&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF" 
+    alt="Lenguajes más usados"
+  />
+</p>
+
+---
+
+<div align="center">
+
+## Contenido del repositorio 📂
+
 </div>
 
 * Análisis y visualización básica de datos de ventas.
@@ -84,12 +96,10 @@ Aquí se encuentran prácticas sobre:
 
 ---
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Objetivos de aprendizaje 🎯</h2>
-    </summary>
-  </ul>
+<div align="center">
+
+## Objetivos de aprendizaje 🎯
+
 </div>
 
 <p>
@@ -109,12 +119,10 @@ Este repositorio tiene como propósito reforzar habilidades importantes para el 
 
 ---
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Estado del repositorio 🚧</h2>
-    </summary>
-  </ul>
+<div align="center">
+
+## Estado del repositorio 🚧
+
 </div>
 
 <p>
@@ -140,20 +148,17 @@ A medida que avance en mi aprendizaje, seguiré agregando nuevas prácticas, pro
 
 ---
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Connect With Me 🤝</h2>
-    </summary>
-  </ul>
+<div align="center">
+
+## Connect With Me 🤝
+
 </div>
 
 <p align="center">
-  <a href="TU_LINKEDIN" target="blank">
+  <a href="TU_LINKEDIN" target="_blank">
     <img 
-      align="center" 
       src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" 
-      alt="linkedin" 
+      alt="LinkedIn" 
       height="50" 
       width="50" 
     />
@@ -164,25 +169,23 @@ A medida que avance en mi aprendizaje, seguiré agregando nuevas prácticas, pro
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=TU_USUARIO_GITHUB\&icon=3\&color=6)](https://visitcount.itsvg.in)
+### Autor
+
+Desarrollado por **Raify D' Leon**.
 
 </div>
 
 ---
 
-### Autor
-
-Desarrollado por **Raify D' Leon**.
-
----
+<div align="center">
 
 ### Licencia
 
 Este proyecto está bajo la licencia MIT.
 
+</div>
+
 <!-- horizontal divider -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
