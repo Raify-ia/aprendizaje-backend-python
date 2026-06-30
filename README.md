@@ -6,6 +6,12 @@
 
 # Aprendizaje Backend Python 🐍
 
+<img src="https://img.shields.io/badge/Edad-26-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Residido-República%20Dominicana-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Enfocado-Full%20Stack-orange?style=for-the-badge" />
+
+<br><br>
+
 Repositorio de aprendizaje y práctica enfocado en el desarrollo backend con Python, Django, Django REST Framework y fundamentos relacionados con el desarrollo web full stack.
 
 Este repositorio reúne diferentes ejercicios, tareas, notebooks y prácticas realizadas durante mi proceso de formación en programación backend, APIs REST, modelos, vistas, autenticación, templates y análisis básico de datos.
@@ -60,20 +66,15 @@ Aquí se encuentran prácticas sobre:
 
 <div align="center">
 
-## Actividad y lenguajes 📈
+## Actividad 📈
 
 </div>
 
 <p align="center">
   <img 
-    width="48%" 
+    width="70%" 
     src="https://streak-stats.demolab.com?user=Raify-ia&theme=dark&hide_border=false&background=0D1117&border=FFFFFF&stroke=FFFFFF&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&dates=CCCCCC" 
     alt="GitHub Streak"
-  />
-  <img 
-    width="48%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raify-ia&layout=compact&theme=dark&hide_border=false&bg_color=0D1117&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF" 
-    alt="Lenguajes más usados"
   />
 </p>
 
@@ -155,12 +156,17 @@ A medida que avance en mi aprendizaje, seguiré agregando nuevas prácticas, pro
 </div>
 
 <p align="center">
-  <a href="TU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/raify-ai-digital-developer-future/" target="_blank">
     <img 
-      src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" 
-      alt="LinkedIn" 
-      height="50" 
-      width="50" 
+      src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:raifybautista111@gmail.com" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Gmail-raifybautista111%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Gmail"
     />
   </a>
 </p>
@@ -188,4 +194,3 @@ Este proyecto está bajo la licencia MIT.
 <!-- horizontal divider -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
